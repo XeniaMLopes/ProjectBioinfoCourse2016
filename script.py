@@ -2,4 +2,4 @@
 
 print " hi"
 
-123
+print 123
