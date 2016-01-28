@@ -13,6 +13,7 @@ Final project for the course Practical Bioinformatics for Biologists
 
 #Format of input file: 
 Structure file format (.str) with lat/long information as the third and fourth columns
+        - Sample data:Tursiops_STRUWin.str
 
 #How to use it:
 - 1- R, Structure and Python should be installed on your computer.
